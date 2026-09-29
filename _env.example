@@ -1,0 +1,17 @@
+# Copy this file to `_env` and fill in your real values.
+# `_env` is listed in .gitignore - NEVER commit it. Only this example is safe to commit.
+#
+# This file holds SECRETS ONLY. Model lists live in models.json and
+# personalities live in personalities.py (both safe to commit and edit).
+#
+# On a hosting platform you can skip this file entirely and set environment
+# variables with the same names instead (lists as JSON, e.g. ["key1","key2"],
+# or plain comma-separated text: key1,key2). Real environment variables win.
+
+DISCORD_BOT_TOKEN="your-discord-bot-token"
+
+GOOGLE_API_KEYS=["your-google-api-key-1","your-google-api-key-2"]
+
+OPEN_ROUTER_API_KEYS=["your-openrouter-key-1","your-openrouter-key-2"]
+
+NVIDIA_API_KEYS=["your-nvidia-key-1"]
